@@ -1,6 +1,10 @@
 # ijcnn2017-panel-cutting-edge-nnet-research
 Transcript from the IJCNN 2017 panel: Cutting Edge Neural Networks Research
 
+May 17, 2017
+
+https://people.engr.tamu.edu/choe/choe/ijcnn2017-web/program-overview.html
+
 IJCNN 2017 Panel: Cutting Edge Neural Networks Research
 
 Chair:
